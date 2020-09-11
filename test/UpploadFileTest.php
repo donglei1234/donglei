@@ -9,7 +9,7 @@
 
 require_once '../vendor/autoload.php';
 
-use donglei\UploadFile;
+use donglei123\UploadFile;
 
 $upload = new UploadFile();
 $upload->maxSize       = 1*1024*1024;    // 默认为-1，不限制上传大小
