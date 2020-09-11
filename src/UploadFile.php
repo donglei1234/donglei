@@ -6,7 +6,7 @@
  * Time: 09:04
  */
 
-namespace dl;
+namespace donglei;
 
 /**
  * 通用文件上传类
