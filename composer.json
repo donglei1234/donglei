@@ -1,0 +1,24 @@
+{
+    "name": "dl/donglei",
+    "description": "一个测试的上传包",
+    "type": "library",
+     "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "autoload": {
+    "psr-4": {
+            "dl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "donglei",
+            "email": "donglei@changingedu.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
